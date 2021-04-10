@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on C
-- 📫 How to reach me , mallikrashed1@gmail.com
+- 📫 How to reach me ,free4talk Adam's Son
 
 <!---
 MallickYasir/MallickYasir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
