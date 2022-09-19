@@ -1,19 +1,15 @@
  <h1 align="center">Hi 👋, I'm Yasir</h1>
-<h3 align="center">An intensely adrenalized Programmer from extreme North West of South East Asia, really really excited to commit on projects and be a profitable friend. And Yes! If you love coffee, let me know which one. >
+<h3 align="center">Intensely adrenalized. Let's code with me. I can help you with DS problems and human Languages.>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallickyasir&label=Profile%20views&color=0e75b6&style=flat" alt="mallickyasir" /> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **C, C++, Python, Java and JavaScript Projects.**
-
-- 🤝 I’m looking for help with **Flutter, Kotlin, MATLAB and Assembly Language**
-
-- 💬 Ask me about **Data Structures, Algorithms, OOP**
+- 👯 I’m looking to collaborate on **C, C++, C#, Python, Java and JavaScript Projects.**
 
 - 📫 How to reach me **mallikrashed1@gmail.com**
 
-- ⚡ Fun fact **I speak 8 human Languages. (Persian, Russian, Turkish, French, Spanish, Arabic, Urdu, English)**
+- ⚡ Fun fact **I speak 8 human Languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
