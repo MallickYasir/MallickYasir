@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms Problems and Projects.**
 
-- 📫 You desire to know more. Email me. @ **mallikrashed1@outlook.com**
+- 📫 Email me. @ **mallikrashed1@outlook.com**
 
 - 📄 Know about my experiences. Here is my resume. [https://docs.google.com/document/d/1Y0Nv3dCsC5g0dekfO0CLf4sSpq1M5R-FIqTgpXKOfoc/edit?usp=drivesdk](https://docs.google.com/document/d/1Y0Nv3dCsC5g0dekfO0CLf4sSpq1M5R-FIqTgpXKOfoc/edit?usp=drivesdk)
 
