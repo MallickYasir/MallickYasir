@@ -1,15 +1,15 @@
-<h1 align="center">Merhaba 👋, You just made me happy. So, Welcome in my GitHub World.</h1>
+<h1 align="center">Merhaba 👋, Naber .</h1>
 <h3 align="center">My name is Yasir.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallickyasir&label=Profile%20views&color=0e75b6&style=flat" alt="mallickyasir" /> </p>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms Problems.**
+- 🔭 I’m currently working on **Data Structures and Algorithms Problems and Projects.**
 
-- 📫 You desire to know more. Email me. @ **mallikrashed1@gmail.com**
+- 📫 You desire to know more. Email me. @ **mallikrashed1@outlook.com**
 
 - 📄 Know about my experiences. Here is my resume. [https://docs.google.com/document/d/1Y0Nv3dCsC5g0dekfO0CLf4sSpq1M5R-FIqTgpXKOfoc/edit?usp=drivesdk](https://docs.google.com/document/d/1Y0Nv3dCsC5g0dekfO0CLf4sSpq1M5R-FIqTgpXKOfoc/edit?usp=drivesdk)
 
-- ⚡ Fun fact: **I do accents. It's real fun.**
+- ⚡ Fun fact: **I do voices.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
