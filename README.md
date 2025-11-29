@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Naber .</h1>
-<h3 align="center">So what would you work on today.</h3>
+<h3 align="center">So what would you like to work on today.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallickyasir&label=Profile%20views&color=0e75b6&style=flat" alt="mallickyasir" /> </p>
 
