@@ -1,6 +1,6 @@
 # Salamuna Malgaro! 👋
 
-![Alt text](https://unsplash.com/photos/an-airplane-is-flying-through-the-blue-sky-yjMMQuhRfxo)
+https://unsplash.com/photos/an-airplane-is-flying-through-the-blue-sky-yjMMQuhRfxo
 
 ## About Me 🚀
 
