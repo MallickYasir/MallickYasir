@@ -1,15 +1,15 @@
 # Salam alaekum! 👋
 
-![alt text](https://unsplash.com/photos/an-airplane-is-flying-through-the-blue-sky-yjMMQuhRfxo/to/img.png)
+
 ## About Me 🚀
 
-I'm a passionate **[Software Writer]** with experience in **[C, C++]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Software Researcher and Engineer]** with experience in **[C, C++ and Python]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[C# ]**
-- 🔭 Working on: **[ C++ Snake Project ]**
+- 🔭 Working on: **[ Custom Bootloader ]**
 - 🌍 Languages: **[C,C++, Python, C#, JavaScript, Go ]**
-- 📫 How to reach me: **[Not Yet ready to be reached!]**
-- ⚡ Fun fact: **[ Philosophical Stoic Writer ]**
+- 📫 How to reach me: **[DMs on linkedIn!]**
+- ⚡ Fun fact: **[ Reads Syntaxes at free time! ]**
 
 
 
